@@ -1,0 +1,47 @@
+@import url(https://fonts.googleapis.com/css?family=Outfit:100,200,300,regular,500,600,700,800,900);
+
+body{
+    display: flex;
+    justify-items: center;
+    justify-content: center;
+    align-items: center;
+    background-color: hsl(212, 45%, 89%);
+    height: 100vh;
+    font-family: Outfit;
+    padding: 0;
+    margin: 0;
+}
+.qrCodeText{
+    text-align: center;
+    color: hsl(220, 15%, 55%);
+    font-weight: 300;
+    font-size: 15px;
+}
+.qrCodeTitle{
+    text-align: center;
+    color: hsl(218, 44%, 22%);
+    font-weight: 700;
+}
+.container{
+    width: 240px;
+    border-radius: 10px;
+    background: hsl(0, 0%, 100%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
+    padding: 20px;
+}
+
+
+.qrContainer{
+    width: 240px;
+    height: 240px;
+    background-color:rgb(51, 143, 228);
+    border-radius: 20px;
+}
+.qrImage{
+    width: 240px;
+    border-radius: 10px;
+}
