@@ -10,7 +10,7 @@ The repository employs fullstack web development concepts such as
 2. CSS
 3. JavaScript
 
-![alt text](fullstack.jpg)
+![alt text](growtika-YOEHA0Ou8ZY-unsplash.jpg)
 
 ## React
 
